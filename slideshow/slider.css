@@ -1,0 +1,17 @@
+.bop-slider{
+  width: 100%;
+  overflow: visible;
+  height: 300px;
+}
+.slider-inner {
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: visible;
+  width: 100%;
+  height: 100%;
+}
+.slider-item {
+  width: 33.33%;
+  position: relative;
+  transition: left 0.5s ease;
+}
