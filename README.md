@@ -1,0 +1,2 @@
+# bopSlider
+Simple slider
